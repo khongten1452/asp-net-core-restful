@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e79e8649-1285-468f-b6d7-6b00d9a4240f": {
+      "ProjectGuid": "e79e8649-1285-468f-b6d7-6b00d9a4240f",
+      "DisplayName": "net-core-restful-api-CICD",
+      "ColorIndex": 0
+    },
+    "c9ef9a6d-dbad-4a8d-a887-4a8fa05e1ba7": {
+      "ProjectGuid": "c9ef9a6d-dbad-4a8d-a887-4a8fa05e1ba7",
+      "DisplayName": "docker-compose",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
